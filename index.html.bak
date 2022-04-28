@@ -37,7 +37,7 @@
             <div class="row cardholder">
                 <div class="info">
                     <label for="cardholdername">Name</label>
-                    <input placeholder="e.g. Johny Appleseed" id="cardholdername" type="text" />
+                    <input placeholder="e.g. Richard Bovell" id="cardholdername" type="text" />
                 </div>
             </div>
             <div class="row number">
